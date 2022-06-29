@@ -1,0 +1,13 @@
+.calcDisplay {
+  height: 80px;
+  padding: 10px;
+  margin: 25px 0 20px 0;
+  background-color: #077187;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: whitesmoke;
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}

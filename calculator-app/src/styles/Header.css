@@ -1,0 +1,10 @@
+@import url("https://db.onlinewebfonts.com/c/c886c670c773597a03ea92b72c8ce524?family=Autograf");
+
+.header {
+  font-family: "Autograf";
+  box-sizing: border-box;
+  color: rgba(245, 245, 245, 0.8);
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}

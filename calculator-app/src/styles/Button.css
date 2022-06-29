@@ -1,0 +1,29 @@
+button {
+  background-color: #74a57f;
+  border-radius: 50%;
+  font-size: 40px;
+}
+
+button:hover {
+  background-color: #9ece9a;
+  transition-delay: 50ms;
+}
+
+button:active {
+  background-color: rgb(89, 129, 86);
+  transition-delay: 20ms;
+}
+
+.operator-color {
+  background-color: #f999c9;
+}
+
+.operator-color:hover {
+  background-color: #f6c3e9;
+  transition-delay: 50ms;
+}
+
+.operator-color:active {
+  background-color: #9f7995;
+  transition-delay: 20ms;
+}
